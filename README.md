@@ -14,7 +14,6 @@
 ### Programming
 <!-- java -->
 <img src="https://img.shields.io/badge/java-000000?style=flat-square&logo=openjdk&logoColor=white">
-<!-- c++ -->
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 
 ### Framework / Library
@@ -74,8 +73,6 @@
 ![hdXian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdXian&show_icons=true&hide=contribs,stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdXian&hide=html,css)
-
-
 
 <!--
 **hdXian/hdXian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
